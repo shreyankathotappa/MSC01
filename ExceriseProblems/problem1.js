@@ -7,5 +7,4 @@ for (let i = 1; i < 1000; i++) {
         sum = sum + i;
     }
 }
-
-console.log("The sum of all multiples of 3 or 5 below 1000 is:", sum);
+alert("The sum of all multiples of 3 or 5 below 1000 is: " + sum);
