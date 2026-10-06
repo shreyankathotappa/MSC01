@@ -8,8 +8,7 @@ function totalCost(basket, prices) {
 
         total = total + basket[product] * prices[product];
 
-    }
-
+    }   
     return total;
 }
 
